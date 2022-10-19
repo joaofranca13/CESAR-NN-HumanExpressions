@@ -6,7 +6,7 @@ Repositório do projeto final da disciplina de Modelos Preditivos Conexionistas 
 
 |**Tipo de Projeto**|**Qtde de imagens por classe**|**Qtde de classes**|
 |--|--|--|
-|Deteção de Objetos|234|4|
+|Deteção de Objetos|happy:65, sad:45, scared:124|3|
 
 ### Informações Adicionais
 

@@ -10,7 +10,14 @@ Repositório do projeto final da disciplina de Modelos Preditivos Conexionistas 
 
 ## Performance
 
-O modelo treinado possui performance de **??%**.
+O modelo treinado possui performance de:
+
+                 Class     Images  Instances          P          R      mAP50   
+                   all         66         69      0.582       0.76      0.771      0.457
+                 angry         66         14      0.523      0.929      0.783      0.439
+                 happy         66         20      0.534       0.85      0.844      0.552
+                   sad         66         17      0.814       0.26      0.634      0.311
+                scared         66         18      0.458          1      0.824      0.528
 
 ### Output do bloco de treinamento
 

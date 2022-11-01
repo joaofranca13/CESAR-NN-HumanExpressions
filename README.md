@@ -6,7 +6,7 @@ Repositório do projeto final da disciplina de Modelos Preditivos Conexionistas 
 
 |**Tipo de Projeto**|**Qtde de imagens por classe**|**Qtde de classes**|**Modelo Selecionado**|**Linguagem**|
 |--|--|--|--|--|
-|Deteção de Objetos|happy:64, sad:56, scared:127, angry:60|4|YOLOv5|PyTorch|
+|Deteção de Objetos|happy:66, sad:52, scared:126, angry:66|4|YOLOv5|PyTorch|
 
 ## Performance
 

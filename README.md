@@ -2,7 +2,7 @@
 Repositório do projeto final da disciplina de Modelos Preditivos Conexionistas 2022.01 da CESAR School.
 #### Aluno: João França
 
-# Dataset e Modelo
+## Dataset e Modelo
 
 |**Tipo de Projeto**|**Qtde de imagens por classe**|**Qtde de classes**|**Modelo Selecionado**|**Linguagem**|
 |--|--|--|--|--|
@@ -22,12 +22,17 @@ O modelo treinado possui performance de **??%**.
   ```
 </details>
 
-### Evidências do treinamento
+## Evidências do treinamento
 
-Nessa seção você deve colocar qualquer evidência do treinamento, como por exemplo gráficos de perda, performance, matriz de confusão etc.
+![Results](https://github.com/joaofranca13/CESAR-NN-HumanExpressions/blob/main/models/runs/train/exp7/results.png)
 
-Exemplo de adição de imagem:
-![Descrição](https://picsum.photos/seed/picsum/500/300)
+![Confusion Matrix](https://github.com/joaofranca13/CESAR-NN-HumanExpressions/blob/main/models/runs/train/exp7/confusion_matrix.png)
+
+![Labels](https://github.com/joaofranca13/CESAR-NN-HumanExpressions/blob/main/models/runs/train/exp7/labels.jpg)
+
+
+
+
 
 ## Roboflow
 

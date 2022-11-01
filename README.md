@@ -1,4 +1,7 @@
 # CESAR-NN-HumanExpressions
+
+Treinamento do modelo YOLOv5 para detecção de expressões humanas, disponivel no HuggingFace Spaces.
+
 Repositório do projeto final da disciplina de Modelos Preditivos Conexionistas 2022.01 da CESAR School.
 #### Aluno: João França
 

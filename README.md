@@ -1091,6 +1091,6 @@ Results saved to runs/train/exp7
 
 ## HuggingFace
 
-[Human Expressions Detection - HuggingFace](huggingface.co/spaces/joaofranca13/CESAR-NN-Human-Expression-HF)
+[Human Expressions Detection - HuggingFace](https://huggingface.co/spaces/joaofranca13/CESAR-NN-Human-Expression-HF)
 
 ![demo](https://user-images.githubusercontent.com/45131112/199138681-04740f9c-7ee3-4b31-9322-555f9cbbc5fb.png)

@@ -22,6 +22,9 @@ O modelo treinado possui performance de:
                    sad         66         17      0.814       0.26      0.634      0.311
                 scared         66         18      0.458          1      0.824      0.528
 
+
+[Caminho para o melhor modelo](https://github.com/joaofranca13/CESAR-NN-HumanExpressions/blob/main/models/runs/train/exp7/weights/best.pt)
+
 ### Output do bloco de treinamento
 
 <details>
